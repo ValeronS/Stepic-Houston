@@ -1,0 +1,25 @@
+body {
+    margin: 0 15vw;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "play";
+    margin-top: 1.5rem;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+td, th {
+    border: 1px solid;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+figure {
+    float: right;
+    margin: 7px 0 7px 7px;
+}
